@@ -1,0 +1,10 @@
+C:\Users\Viraldim\documents\visual studio 2012\Projects\3,OperatorsExpressionsAndStatements\14.HarderBitRepalcement\bin\Debug\14.HarderBitRepalcement.exe
+C:\Users\Viraldim\documents\visual studio 2012\Projects\3,OperatorsExpressionsAndStatements\14.HarderBitRepalcement\bin\Debug\14.HarderBitRepalcement.pdb
+C:\Users\Viraldim\documents\visual studio 2012\Projects\3,OperatorsExpressionsAndStatements\14.HarderBitRepalcement\obj\Debug\14.HarderBitRepalcement.csprojResolveAssemblyReference.cache
+C:\Users\Viraldim\documents\visual studio 2012\Projects\3,OperatorsExpressionsAndStatements\14.HarderBitRepalcement\obj\Debug\14.HarderBitRepalcement.exe
+C:\Users\Viraldim\documents\visual studio 2012\Projects\3,OperatorsExpressionsAndStatements\14.HarderBitRepalcement\obj\Debug\14.HarderBitRepalcement.pdb
+E:\TelerikAcademy\Season 2\C# part 1\3.OperatorsExpressionsAndStatements\Homework\14.HarderBitRepalcement\obj\Debug\14.HarderBitRepalcement.exe
+E:\TelerikAcademy\Season 2\C# part 1\3.OperatorsExpressionsAndStatements\Homework\14.HarderBitRepalcement\obj\Debug\14.HarderBitRepalcement.pdb
+E:\TelerikAcademy\Season 2\C# part 1\3.OperatorsExpressionsAndStatements\Homework\14.HarderBitRepalcement\bin\Debug\14.HarderBitRepalcement.exe
+E:\TelerikAcademy\Season 2\C# part 1\3.OperatorsExpressionsAndStatements\Homework\14.HarderBitRepalcement\bin\Debug\14.HarderBitRepalcement.pdb
+E:\TelerikAcademy\Season 2\C# part 1\3.OperatorsExpressionsAndStatements\Homework\14.HarderBitRepalcement\obj\Debug\14.HarderBitRepalcement.csprojResolveAssemblyReference.cache
